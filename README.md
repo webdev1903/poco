@@ -1,4 +1,5 @@
 Node-Express-MongoDB backend server.
+The server might take a while to respond as it is hosted free of cost.
 
 ## Available Routes
 
